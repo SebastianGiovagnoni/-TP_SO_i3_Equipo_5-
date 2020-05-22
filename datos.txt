@@ -1,2 +1,1 @@
-﻿Juan Cruz; Muñoz; IP: fd6c:6361:7a9f::841; Hora: 09:53
-Pedro Seneriz,      dirección IPv6 local: fe80::a575:512c:fb4f:7145%32       Hora: 10:12
+
