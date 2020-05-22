@@ -1,0 +1,68 @@
+Windows
+Nombre del SO	Microsoft Windows 10 Pro for Workstations
+Versión	10.0.18363 compilación 18363
+Descripción adicional del SO 	No disponible
+Fabricante del SO	Microsoft Corporation
+Nombre del sistema	DESKTOP-NP8J8SD
+Fabricante del sistema	Gigabyte Technology Co., Ltd.
+Modelo del sistema	H310M H
+Tipo de sistema	PC basado en x64
+SKU del sistema	Default string
+Procesador	Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, 3192 Mhz, 6 procesadores principales, 12 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. F11, 18/9/2018
+Versión de SMBIOS	3.1
+Versión de controladora integrada	255.255
+Modo de BIOS	UEFI
+Fabricante de la placa base	Gigabyte Technology Co., Ltd.
+Producto de placa base	H310M H
+Versión de la placa base	x.x
+Rol de plataforma	Escritorio
+Estado de arranque seguro	Desactivada
+Configuración de PCR7	Enlace no posible
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume2
+Configuración regional	Estados Unidos
+Capa de abstracción de hardware	Versión = "10.0.18362.628"
+Nombre de usuario	DESKTOP-NP8J8SD\Suprax
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	8,00 GB
+Memoria física total	7,86 GB
+Memoria física disponible	991 MB
+Memoria virtual total	13,6 GB
+Memoria virtual disponible	3,35 GB
+Espacio de archivo de paginación	5,75 GB
+Archivo de paginación	C:\pagefile.sys
+Protección de DMA de kernel	Desactivada
+Compatibilidad con cifrado de dispositivo	Razones del error de cifrado automático del dispositivo: No se admite el enlace PCR7, Error en la interfaz de prueba de seguridad de hardware. El dispositivo no está en modo de espera moderno., Se detectó un bus o un dispositivo compatible con DMA que no se permite., WinRE no está configurado
+Hyper-V - Extensiones de modo de monitor VM	Sí
+Hyper-V - Extensiones de traducción de dirección de segundo nivel	Sí
+Hyper-V - Virtualización habilitada en Firmware	Sí
+Hyper-V -Protección de ejecución de datos	Sí
+-------------------------------------------------------------------------
+deepin
+processor    : 0
+vendor_id    : GenuineIntel
+cpu family    : 6
+model        : 158
+model name    : Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz
+stepping    : 10
+cpu MHz        : 3192.000
+cache size    : 12288 KB
+physical id    : 0
+siblings    : 1
+core id        : 0
+cpu cores    : 1
+apicid        : 0
+initial apicid    : 0
+fpu        : yes
+fpu_exception    : yes
+cpuid level    : 22
+wp        : yes
+flags        : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid pni pclmulqdq monitor ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx rdrand hypervisor lahf_lm abm 3dnowprefetch invpcid_single pti fsgsbase avx2 invpcid rdseed clflushopt
+bugs        : cpu_meltdown spectre_v1 spectre_v2 spec_store_bypass
+bogomips    : 6384.00
+clflush size    : 64
+cache_alignment    : 64
+address sizes    : 39 bits physical, 48 bits virtual
+power management:
