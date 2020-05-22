@@ -1,0 +1,58 @@
+a)el master queda actualizado al estado en el que estaba la rama Giovagnoni
+b)si, pudo ver todos los cambios
+c)si, ambos quedan con los datos actualizados 
+d)tuvimos problemas por no saber implementar el comando merge tuve que buscar en google para poder utilizarlo bien
+e)
+Giovagnoni Sebastian Victor:BETA
+Historial:
+   1 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+   2 cd prueba-tp-equipo-5/
+   3 git add .
+   4 git commit -m "beta primer commit"
+   5 git push
+   6 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+   7 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+   8 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+   9 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+  10 cd prueba-tp-equipo-5-Mu-oz/
+  11 git add .
+  12 cd prueba-tp-equipo-5-Mu-oz/
+  13 cd prueba-tp-equipo-5-Mu-oz/
+  14 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+  15 git checkout Muñoz
+  16 git checkout Muñoz
+  17 git add .
+  18 git commit -m ""
+  19 git add .
+  20 git commit -m ""
+  21 git push
+  22 git branch Giovagnoni
+  23 git checkout master
+  24 git branch Giovagnoni
+  25 git branch -d Giovagnoni
+  26 git branch -D Giovagnoni
+  27 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+  28 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5-
+  29 cd prueba-tp-equipo-5/
+  30 git merge origin/Giovagnoni
+  31 git push
+  32 history
+
+Muñoz Juan Cruz:GAMMA
+Realizo todo con github.
+
+Señeriz Pedro:ALFA
+Comandos:
+   1 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5- -b Muñoz
+   2 git status
+   3 git status
+   4 git add .
+   5 git commit -m ""   6  git push
+   7 git clone https://github.com/SebastianGiovagnoni/-TP_SO_i3_Equipo_5- -b Giovagnoni
+   8 git status
+   9 git status
+  10 git status
+  11 git add .
+  12 git commit -m ""
+  13 git push
+  14 history
