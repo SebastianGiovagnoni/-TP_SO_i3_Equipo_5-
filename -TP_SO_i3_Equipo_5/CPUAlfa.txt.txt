@@ -1,0 +1,25 @@
+Sistema operativo	Microsoft Windows 7 Ultimate
+Versión	6.1.7601 Service Pack 1 Compilación 7601
+Descripción adicional del sistema operativo 	No disponible
+Fabricante del sistema operativo	Microsoft Corporation
+Nombre del sistema	NOE-PC
+Fabricante del sistema	System manufacturer
+Modelo del sistema	System Product Name
+Tipo de sistema	Equipo basado en X86
+Procesador	Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz, 3300 Mhz, 2 procesadores principales, 4 procesadores lógicos
+Versión y fecha de BIOS	American Megatrends Inc. 0802, 08/10/2012
+Versión de SMBIOS	2.7
+Directorio de Windows	C:\Windows
+Directorio del sistema	C:\Windows\system32
+Dispositivo de arranque	\Device\HarddiskVolume1
+Configuración regional	Argentina
+Capa de abstracción de hardware	Versión = "6.1.7601.24545"
+Nombre de usuario	NOE-PC\Noel
+Zona horaria	Hora estándar de Argentina
+Memoria física instalada (RAM)	4,00 GB
+Memoria física total	3,47 GB
+Memoria física disponible	887 MB
+Memoria virtual total	6,94 GB
+Memoria virtual disponible	3,61 GB
+Espacio de archivo de paginación	3,47 GB
+Archivo de paginación	C:\pagefile.sys
