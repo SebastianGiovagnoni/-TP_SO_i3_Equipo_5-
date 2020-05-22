@@ -1,0 +1,19 @@
+Sebastian Victor Giovagnoni
+ifconfig:enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::9555:8331:6f73:111a  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:9e:9b:e0  txqueuelen 1000  (Ethernet)
+        RX packets 34836  bytes 45328368 (43.2 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6929  bytes 520518 (508.3 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+Hora: 11:02
